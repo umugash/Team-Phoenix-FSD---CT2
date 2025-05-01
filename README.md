@@ -73,7 +73,7 @@ cd client
 npm start
 
 Open http://localhost:3000 to view the app
-![3](https://github.com/user-attachments/assets/055617d3-f6c7-4e6d-973a-d725ba982a3c)
+![3](https://github.com/user-attachments/assets/f505cc9f-84f5-47af-a34f-a90420a89260)
+![1](https://github.com/user-attachments/assets/88f79b74-e46c-4ca6-8449-115e07bc9d72)
+![2](https://github.com/user-attachments/assets/fc5113ba-dd86-4516-867b-052cc740ddee)
 
-![1](https://github.com/user-attachments/assets/6859b6ba-4fe9-4862-9f80-b055b028e791)
-![2](https://github.com/user-attachments/assets/de90168f-7e84-4d81-8dc7-c103907bd1ad)
